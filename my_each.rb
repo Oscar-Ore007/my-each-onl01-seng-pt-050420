@@ -1,6 +1,5 @@
 def my_each(collection)
-    my_each(collection) do 
-      |i|
-         i 
+    counter = 0 
+  while 
   end
 end 
